@@ -210,7 +210,7 @@ const LandingPage = ({ onExplorePlace, onExploreAllStates }) => {
       {/* Hero Section */}
       <div className="hero-section">
         <div className="hero-content">
-          <h1 className="hero-title">🌏 Culturist </h1>
+          <h1 className="hero-title">🌏 Culturist  </h1>
           <p className="hero-subtitle">
             Explore the perfect destinations for every season. From snow-capped mountains to golden beaches,
             discover India's rich heritage, vibrant festivals, and authentic experiences.
